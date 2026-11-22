@@ -12,12 +12,12 @@ automatique Instagram fonctionne (échecs les 6 et 7 nov. 2026).
 | Au plus tôt (à la place du post prévu ce jour-là, à décaler au créneau libre suivant) | 9h00 | vendu_orec_hr662.jpg | VENDU OREC Bull Mower HR662, moteur Honda : merci au client pour sa commande spécifique |
 | Mar. 24 nov. 2026 | 7h30 | casque_husqvarna_micro.jpg | Casque élagueur pro Husqvarna, micro intégré |
 | Ven. 27 nov. 2026 | 12h15 | revision_robot_husqvarna.jpg | Rappel révision robot Husqvarna 159 € |
-| Mer. 9 déc. 2026 | 12h15 | revision_robot_husqvarna.jpg | Révision robot : plus que 2 semaines |
-| Ven. 18 déc. 2026 | 12h15 | revision_robot_husqvarna.jpg | Révision robot : derniers jours (fin 22 déc.) |
+| Mer. 9 déc. 2026 | 12h15 | revision_robot_husqvarna.jpg | Révision robot : 159 € jusqu'au 31 déc., 175 € ensuite |
+| Lun. 28 déc. 2026 | 12h15 | revision_robot_husqvarna.jpg | Révision robot : derniers jours (159 € jusqu'au 31 déc., 175 € dès le 1er janv.) |
 
 ## Offre révision robot Husqvarna
 159 € tout compris : nettoyage complet, joint + roulement du plateau, lames neuves montées + 6 lames
-offertes, mise à jour + test. Robot très sale : + 10 €. Jusqu'au 22 décembre 2026.
+offertes, mise à jour + test. Robot très sale : + 10 €. 159 € pour toute réservation avant le 31 décembre 2026, 175 € à partir du 1er janvier 2027. Mail envoyé le 12 nov. depuis l'ERP (contact@) avec lien de prise de RDV en ligne.
 
 ## Textes
 ### VENDU OREC
@@ -48,7 +48,7 @@ Révision complète : 159 € tout compris
 👉 Mise à jour + test
 
 Robot très sale : + 10 €.
-Offre jusqu'au 22 décembre.
+159 € jusqu'au 31 décembre, 175 € à partir du 1er janvier.
 
 ### Pied de texte (Instagram / Facebook)
 📍 Alliance Motoculture 19 – Ussac / Brive
