@@ -92,3 +92,8 @@ Husqvarna · Cub Cadet · ECHO · EGO · ISEKI · STIHL · TGB · Masai
 Commande en ligne, envoi partout en France, ou retrait au magasin à Ussac.
 
 🔗 https://www.alliancemotoculture19.com
+
+## Décisions de Franck
+- 23/11/2026 : objectif « trouver Alliance Motoculture 19 avant AZMOTORS sur Google le 10/12 ». « Je ne veux pas payer » : AUCUNE publicité payante (Google Ads refusé). Uniquement le gratuit. « Gère seul jusqu'au 10. »
+- 23/11/2026 : mails envoyés (cartes revendeurs) : Husqvarna (Damien Blanchetière), ISEKI (C. Biberson), TGB via Deltamics (Cloé Herlin). Brouillon SGR resté dans Gmail (suppression refusée).
+- robots.txt corrigé à déposer par FileZilla : site-a-deposer/robots.txt.
