@@ -97,3 +97,33 @@ Commande en ligne, envoi partout en France, ou retrait au magasin à Ussac.
 - 23/11/2026 : objectif « trouver Alliance Motoculture 19 avant AZMOTORS sur Google le 10/12 ». « Je ne veux pas payer » : AUCUNE publicité payante (Google Ads refusé). Uniquement le gratuit. « Gère seul jusqu'au 10. »
 - 23/11/2026 : mails envoyés (cartes revendeurs) : Husqvarna (Damien Blanchetière), ISEKI (C. Biberson), TGB via Deltamics (Cloé Herlin). Brouillon SGR resté dans Gmail (suppression refusée).
 - robots.txt corrigé à déposer par FileZilla : site-a-deposer/robots.txt.
+
+## Offre Noël ECHO (Franck, 24/11/2026) — jusqu'au 22 décembre 2026
+Prix = mêmes tarifs que le devis SEB MOTOCULTURE 2026PF-11031 du 23/11 (HT ×1,2, arrondi TTC en ,90 au-dessus, règle Kerix §12) :
+- ECHO CS-303T (élagueuse 30,1 cm³, guide 30 cm, réf. CS303T30, stock 1) : 405 € → 376,90 € TTC
+- ECHO CS-2511WES (25 cm³, guide 30 cm, réf. CS2511WES30, stock 2) : 530 € → 308,90 € TTC
+Photos : Franck les prend au magasin le 24/11 au matin. Annonces aussi sur bourseauxaffaires.fr (but : visibilité).
+⚠️ Le devis SEB contient aussi ces machines (CS303T stock 1) : si SEB achète, plus de stock pour l'offre.
+
+| Date | Heure | Visuel | Sujet |
+|---|---|---|---|
+| Jeu. 26 nov. 2026 | 12h15 | noel_echo_cs2511wes.jpg | Noël ECHO CS-2511WES 308,90 € au lieu de 530 € |
+| Jeu. 3 déc. 2026 | 12h15 | noel_echo_cs303t.jpg | Noël ECHO CS-303T 376,90 € au lieu de 405 € |
+| Sam. 12 déc. 2026 | 10h00 | les deux | Rappel offre Noël ECHO |
+| Sam. 19 déc. 2026 | 10h00 | les deux | Derniers jours (jusqu'au 22/12) |
+
+### Texte CS-2511WES
+🎄 Offre de Noël ECHO !
+
+Tronçonneuse ECHO CS-2511WES – 25 cm³, guide 30 cm
+Légère et maniable, idéale pour l'entretien et la taille.
+👉 308,90 € au lieu de 530 €
+Seulement 2 machines, jusqu'au 22 décembre.
+
+### Texte CS-303T
+🎄 Offre de Noël ECHO !
+
+Élagueuse ECHO CS-303T – 30,1 cm³, guide 30 cm
+Puissante et compacte, pour l'élagage et les travaux en hauteur.
+👉 376,90 € au lieu de 405 €
+1 seule machine, jusqu'au 22 décembre.
