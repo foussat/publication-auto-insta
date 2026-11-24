@@ -145,3 +145,25 @@ Puissante et compacte, pour l'élagage et les travaux en hauteur.
 Légère, pensée pour l'élagage et le travail en hauteur.
 👉 337,90 € au lieu de 515 €
 Seulement 2 machines, jusqu'au 22 décembre.
+
+## Pack BAHCO à saisir (Franck, 24/11/2026)
+Compté à l'inventaire du 23/11 (2016, 43,2 V, 1 de chaque) : tronçonneuse sur perche télescopique BCL135 + bineuse sarcleuse BCL141 + batterie dorsale lithium 1000 Wh BCL1B10.
+Prix : PACK 1 990 € TTC « à saisir » (prix normal 2 742,50 € TTC). Arguments de Franck : perche télescopique, matériel professionnel durable, batterie dorsale qui se branche aussi sur les autres accessoires Bahco.
+(Note : 1 990 € TTC = 1 658 € HT, sous le prix d'achat total 1 890 € HT : déstockage voulu par Franck.)
+Photos : à prendre par Franck au magasin.
+
+| Date | Heure | Visuel | Sujet |
+|---|---|---|---|
+| Lun. 30 nov. 2026 | 12h15 | pack_bahco.jpg | Pack Bahco pro à saisir 1 990 € |
+| Ven. 11 déc. 2026 | 12h15 | pack_bahco.jpg | Rappel pack Bahco |
+
+### Texte pack Bahco
+⚡ À SAISIR : pack Bahco professionnel sur batterie !
+
+👉 Tronçonneuse sur perche télescopique Bahco BCL135 : élagage en hauteur sans échelle
+👉 Bineuse sarcleuse Bahco BCL141 : pour travailler la terre
+👉 Batterie dorsale lithium Bahco 1000 Wh : se porte sur le dos, et se branche aussi sur les autres accessoires Bahco
+
+Matériel professionnel, solide et durable.
+Le pack complet : 1 990 € au lieu de 2 742,50 €
+Une seule pièce de chaque.
