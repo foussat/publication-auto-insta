@@ -1,5 +1,12 @@
 # Publications à programmer dans Metricool (Alliance Motoculture 19)
 
+## NORMES DE PUBLICATION (Franck, 24/11/2026) — sur CHAQUE publication
+- Visuel : en bas, le logo habituel (plaque « Alliance Motoculture 19 » style ancien).
+- Texte : finir par « 👉 Suivez-nous sur Bourse aux Affaires : https://www.bourseauxaffaires.fr »
+- Chaque offre / machine : aussi en annonce sur bourseauxaffaires.fr (but : visibilité).
+- Google : pas de téléphone ni hashtags dans le texte (sinon refus), bouton « Appeler » ou « En savoir plus ».
+
+
 Méthode : le client envoie les photos, Claude fait visuel + texte + date et programme dans Metricool
 (Instagram + Facebook + Google Business si connectés). Sur Google : pas de téléphone ni de hashtags
 dans le texte (sinon refus), bouton « Appeler ».
@@ -57,6 +64,7 @@ Robot très sale : + 10 €.
 📍 Alliance Motoculture 19 – Ussac / Brive
 📞 05 55 92 29 68
 🌐 https://alliancemotoculture19.com/
+👉 Suivez-nous sur Bourse aux Affaires : https://www.bourseauxaffaires.fr
 
 #motoculture #Correze #Ussac #Brive #Objat #Donzenac #Malemort #Juillac #Allassac #Tulle
 (+ hashtags du sujet)
