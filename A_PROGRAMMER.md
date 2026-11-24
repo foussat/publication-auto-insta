@@ -102,6 +102,7 @@ Commande en ligne, envoi partout en France, ou retrait au magasin à Ussac.
 Prix = mêmes tarifs que le devis SEB MOTOCULTURE 2026PF-11031 du 23/11 (HT ×1,2, arrondi TTC en ,90 au-dessus, règle Kerix §12) :
 - ECHO CS-303T (élagueuse 30,1 cm³, guide 30 cm, réf. CS303T30, stock 1) : 405 € → 376,90 € TTC
 - ECHO CS-2511WES (25 cm³, guide 30 cm, réf. CS2511WES30, stock 2) : 530 € → 308,90 € TTC
+- ECHO CS-280TES (élagueuse 26,9 cm³, guide 25 cm, réf. « CS280TES25 3/8 », stock 2 selon Franck ; Kerix affiche 2 lignes en double, stock 2 et 3) : 515 € → 337,90 € TTC
 Photos : Franck les prend au magasin le 24/11 au matin. Annonces aussi sur bourseauxaffaires.fr (but : visibilité).
 ⚠️ Le devis SEB contient aussi ces machines (CS303T stock 1) : si SEB achète, plus de stock pour l'offre.
 
@@ -109,8 +110,9 @@ Photos : Franck les prend au magasin le 24/11 au matin. Annonces aussi sur bours
 |---|---|---|---|
 | Jeu. 26 nov. 2026 | 12h15 | noel_echo_cs2511wes.jpg | Noël ECHO CS-2511WES 308,90 € au lieu de 530 € |
 | Jeu. 3 déc. 2026 | 12h15 | noel_echo_cs303t.jpg | Noël ECHO CS-303T 376,90 € au lieu de 405 € |
-| Sam. 12 déc. 2026 | 10h00 | les deux | Rappel offre Noël ECHO |
-| Sam. 19 déc. 2026 | 10h00 | les deux | Derniers jours (jusqu'au 22/12) |
+| Mar. 8 déc. 2026 | 12h15 | noel_echo_cs280tes.jpg | Noël ECHO CS-280TES 337,90 € au lieu de 515 € |
+| Sam. 12 déc. 2026 | 10h00 | les trois | Rappel offre Noël ECHO |
+| Sam. 19 déc. 2026 | 10h00 | les trois | Derniers jours (jusqu'au 22/12) |
 
 ### Texte CS-2511WES
 🎄 Offre de Noël ECHO !
@@ -127,3 +129,11 @@ Seulement 2 machines, jusqu'au 22 décembre.
 Puissante et compacte, pour l'élagage et les travaux en hauteur.
 👉 376,90 € au lieu de 405 €
 1 seule machine, jusqu'au 22 décembre.
+
+### Texte CS-280TES
+🎄 Offre de Noël ECHO !
+
+Élagueuse ECHO CS-280TES – 26,9 cm³, guide 25 cm
+Légère, pensée pour l'élagage et le travail en hauteur.
+👉 337,90 € au lieu de 515 €
+Seulement 2 machines, jusqu'au 22 décembre.
