@@ -167,3 +167,29 @@ Photos : à prendre par Franck au magasin.
 Matériel professionnel, solide et durable.
 Le pack complet : 1 990 € au lieu de 2 742,50 €
 Une seule pièce de chaque.
+
+## Offre Noël ROBOTS (Franck, 24/11/2026)
+Mots : « Robots offre Noël, tu gardes 4 points sur le stock actuel et tu les débarrasses tous sauf 520 et 580 ; regarde si tu trouves moins cher ailleurs, sinon tu y mets les moins chers de France ; on les aide à se faire plaisir pour Noël, on les accompagne ; toujours en bas carte et suivez-nous sur Bourse aux Affaires. »
+Réponses : Husqvarna = GARDER les prix promo à 2 % (prixMagasinTTC Kerix du 14/11) ; Cub Cadet XR5 = coût 600 € HT + 4 % = 759 € TTC.
+Exclus : AM520 (filaire et EPOS), 580.
+Prix (TTC) — barré = prix normal Kerix (prixVente HT × 1,2) :
+| Robot | Stock | Normal | Noël |
+|---|---|---|---|
+| AM305 | 2 | 1 199 | 959 |
+| 310 Mark II | 2 | 1 599 | 1 279 |
+| 315 Mark II | 1 | 1 849 | 1 519 |
+| 405X | 3 | 1 999 | 1 589 |
+| 410VE NERA | 5 | 3 199 | 2 539 |
+| 410XE NERA | 2 | 2 649 | 2 239 |
+| 415X | 2 | 2 299 | 2 009 |
+| 430X | 5 | 3 899 | 3 019 |
+| 430X NERA | 2 | 3 899 | 2 939 |
+| 435X AWD | 1 | 5 499 | 4 159 |
+| 450X | 1 | 5 199 | 3 929 |
+| 450X NERA | 1 | 4 879 | 3 879 |
+| 535 AWD EPOS | 1 | 5 999 | 4 909 |
+| Cub Cadet XR5-1000 | 3 | 1 203 | 759 |
+| Cub Cadet XR5-2000 | 2 | 2 499 | 759 |
+| Cub Cadet XR5-3000 | 1 | 3 249 | 759 |
+Comparaison concurrents : en cours (agent), à appliquer : si un vendeur français est moins cher, on se place juste en dessous.
+⚠️ Les XR5 sont aussi dans le devis SEB 2026PF-11031 (3 robots à 600 € HT).
